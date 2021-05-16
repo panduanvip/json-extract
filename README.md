@@ -5,6 +5,10 @@
 Small class, which will try to extract JSON strings from a string. 
 There are two functions which will achieve that.
 
+```
+This fork fixes the problem on "Array and string offset access syntax with curly braces that no longer supported"
+```
+
 ## Installation
 
 ```bash
