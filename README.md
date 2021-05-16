@@ -1,4 +1,4 @@
-# Json Extractor
+# Json Extractor Supports PHP 7.4
 
 ## Abstract
 
@@ -12,22 +12,9 @@ This fork fixes the problem on "Array and string offset access syntax with curly
 ## Installation
 
 ```bash
-composer require ronolo/json-extract
+composer require panduanvip/ronolo-json-extract
 ```
 
-If that does not work, you may have to add the repository to the top level 
-composer.json like this:
-
-```json
-{
-  "repositories": [
-     {
-        "type": "vcs",
-        "url":  "https://github.com/ronolo/json-extract.git"
-    }
-  ]
-}
-```
 
 ## Use
 
