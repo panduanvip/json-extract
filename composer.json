@@ -3,7 +3,7 @@
   "description": "Extracts JSON from strings and returns PHP arrays.",
   "license": "MIT",
   "type": "library",
-  "homepage": "https://github.com/panduanvip/json-extract",
+  "homepage": "https://panduan.dev/json-extract",
   "authors": [
     {
       "name": "Ronald Locke"
